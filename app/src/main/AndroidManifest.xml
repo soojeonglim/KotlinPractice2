@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.KotlinPractice2">
         <activity
+            android:name=".RecyclerView"
+            android:exported="false" />
+        <activity
             android:name=".SubActivity"
             android:exported="false" />
         <activity
